@@ -4,7 +4,7 @@
 
 ### Artículo 1. Denominación y naturaleza
 
-Con la denominación de ASOCIACIÓN Sevilla Maker Society , se constituye en Sevilla (Sevilla), el día 1 de Mayo, 
+Con la denominación de Sevilla Maker Society , se constituye en Sevilla (Sevilla), el día 1 de Mayo, 
 de 2018, una organización de naturaleza asociativa y sin ánimo de lucro y sin orientación política,
 al amparo de lo dispuesto en el artículo 22 de la Constitución Española, en la Ley Orgánica 1/2002, de 22 de marzo, 
 reguladora del Derecho de Asociación y demás disposiciones vigentes dictadas en desarrollo y aplicación de aquélla, 
@@ -22,7 +22,7 @@ con sujeción a lo establecido en el ordenamiento jurídico.
 
 La Asociación que se crea tiene nacionalidad española.
 
-El domicilio social de la Asociación radicará en la calle/plaza CASA DE LUIS núm. CASA DE LUIS de la localidad de Sevilla (Sevilla).
+El domicilio social de la Asociación radicará en la calle/plaza UNDISCLOSED núm. UNDISCLOSED de la localidad de Sevilla (Sevilla).
 
 El cambio de domicilio requerirá acuerdo de la Asamblea General, convocada específicamente con tal objeto, y la
 modificación de los presentes Estatutos.
@@ -44,30 +44,31 @@ sólo producirá efectos, tanto para los asociados como para los terceros, desde
 
 Los fines de la Asociación serán los siguientes:
 
-1.- Difundir la cultura (maker), cuyas principales características son la creación digital, el “hágalo usted mismo” 
-(“do it yourself” o DIY por sus siglas en inglés), la experimentación y el conocimiento de cómo funcionan las cosas.
+1.- Difundir la cultura Maker, cuyas principales características son la creación digital, el “hágalo usted mismo” 
+(“do it yourself” o DIY por sus siglas en inglés), la experimentación y el conocimiento de cómo funciona la tecnología.
 
-2.- Fomentar la creación de una comunidad de personas inquietas y creativas para favorecer el nacimiento de 
-proyectos que impacten positivamente en nuestro entorno social, formativo y económico.
+2.- Promover y divulgar el conocimiento práctico y el uso de las nuevas tecnologías, la innovación y el prototipado rápido.
 
-3.- Promover y divulgar el conocimiento práctico y el uso de las nuevas tecnologías, la innovación y el prototipado rápido.
+3.- Crear en la sociedad conciencia de las posibilidades que las nuevas tecnologías y la compartición de conocimiento pueden aportar.
 
-4.- Crear en la sociedad conciencia de las posibilidades que las nuevas tecnologías y la compartición de conocimiento pueden aportar.
-
-5.- Compartir el conocimiento y los medios tecnológicos que nos permitan construir, experimentar, 
+4.- Compartir el conocimiento y los medios tecnológicos que nos permitan construir, experimentar, 
 aprender y disfrutar del proceso, ya se trate de proyectos individuales o colectivos.
 
 Y para su consecución desarrollará las siguientes actividades: 
 
-1.- Facilitar el acceso a un espacio común bien equipado donde podamos desarrollar nuestros proyectos de construcción y aprendizaje.
+1.- Impulsar la creación de una comunidad de personas inquietas y creativas para favorecer el nacimiento de 
+proyectos que impacten positivamente en nuestro entorno social, formativo y económico.
 
-2.- Impartir talleres y charlas técnicas y tecnologías.
+2.- Facilitar el acceso a un espacio común bien equipado donde podamos desarrollar nuestros proyectos de construcción y aprendizaje.
 
-3.- Compartir conocimiento de manera orgánica entre aquellos que acuden a la asociación.
+3.- Impartir talleres y charlas de prototipado rápido, técnicas de fabricación digital y tecnología en general.
 
-4.- Organizar o participar en eventos y conferencias para dar visibilidad al movimiento que representamos.
+4.- Compartir conocimiento de manera orgánica entre aquellos que acuden a la asociación.
 
-5.- Organizar visitas y viajes a museos, lugares e instituciones de interés para los fines de la asociación
+5.- Organizar o participar en eventos y conferencias sobre tecnología, técnicas de fabricación, y sobre el movimiento
+al que representamos.
+
+6.- Organizar visitas y viajes a museos, lugares e instituciones de interés para los fines de la asociación.
 
 
 ## Capítulo III - ASAMBLEA GENERAL
@@ -78,7 +79,8 @@ El órgano supremo de gobierno de la Asociación es la Asamblea General, integra
   
 Adopta sus acuerdos por el principio mayoritario o de democracia interna y deberá reunirse, al menos, una vez al año.
   
-Las Asambleas podrán tener carácter ordinario y extraordinario, y serán convocadas en la forma que se indica en los presentes Estatutos.
+Las Asambleas podrán tener carácter ordinario y extraordinario, y serán convocadas
+en la forma que se indica en los presentes Estatutos.
 
 ### Artículo 8.  Convocatoria
 
@@ -94,10 +96,10 @@ la celebración de la Asamblea habrá de mediar, al menos, quince días naturale
 orden del día de la sesión, y adjuntará los documentos o información que fuere necesaria 
 para la adopción de los acuerdos siempre que dicha documentación o información haya de ser tenida en cuenta para ello.
 
- La solicitud habrá de ser presentada ante la Secretaría de la Asociación; una vez sellada se devolverá una copia al solicitante.
+La solicitud habrá de ser presentada ante la Secretaría de la Asociación; una vez sellada se devolverá una copia al solicitante.
 
- La persona titular de la Secretaría de la Asociación, después de comprobar los requisitos formales (número de socios, convocatoria 
- y documentación, en su caso), dará cuenta inmediata a la Presidencia, para que, 
+La persona titular de la Secretaría de la Asociación, después de comprobar los requisitos formales (número de socios, convocatoria 
+y documentación, en su caso), dará cuenta inmediata a la Presidencia, para que, 
 en el plazo de quince días naturales desde su presentación, convoque la Asamblea que habrá de celebrarse dentro 
 del plazo de treinta días naturales a contar desde la solicitud. Si la solicitud careciere de los requisitos formales,
 la persona titular de la Secretaría la tendrá por no formulada, procediendo a su archivo con comunicación 
@@ -111,7 +113,8 @@ la persona asociada que encabece la lista o firmas.
 
 La convocatoria efectuada por las personas legitimadas para ello,
 de conformidad con lo dispuesto en el artículo anterior, deberá ser comunicada 
-y expuesta en el tablón de anuncios si existiera o en el medio telemático designado en el reglamento interno de la asociación,
+y expuesta en el tablón de anuncios si existiera o en el medio telemático designado en el reglamento 
+interno de la asociación,
 con una antelación de quince días naturales a la celebración de la Asamblea.
 
 La convocatoria deberá contener el orden del día, 
@@ -123,7 +126,8 @@ con una antelación mínima de quince días naturales a la celebración de la As
 
 Todas las comunicaciones de la asociación, así como el depósito de documentación, 
 se harán por medios electrónicos, sin perjuicio de las copias impresas y firmadas que la normativa requiera. 
-Dichos medios electrónicos, estarán descritos en el reglamento interno de la asociación y deben ser accesibles a todos los socios
+Dichos medios electrónicos, estarán descritos en el reglamento interno de la asociación y deben ser accesibles
+a todos los socios.
 
 
 ### Artículo 10.    Asamblea General ordinaria.
@@ -143,7 +147,7 @@ ejercicio, al objeto de tratar los siguientes puntos del orden del día:
 
 6.- Aprobación, si procede, del Programa de actividades.
 
-7.- Modificación y aprobación, si procede, del reglamento interno de la asociación 
+7.- Modificación y aprobación, si procede, del reglamento interno de la asociación. 
  
 ### Artículo 11.   Asamblea General extraordinaria.
 
@@ -220,8 +224,10 @@ en funciones, hasta el momento en que se produzca la aceptación de las personas
 	
 ### Artículo 16.  Composición y cargos.
 
-La Junta Directiva estará formada por 5 miembros; de ellos, se designarán los cargos de Presidente/a,
-Vicepresidente/a y de Secretario/a, siendo vocales el resto. 
+La Junta Directiva estará formada por por un mínimo de 3 miembros y un máximo de 6; de ellos, se designarán los cargos de Presidente/a,
+Vicepresidente/a o Tesorero y de Secretario/a, siendo vocales el resto. Los cargos de vocal podrán quedar desiertos si no hubiera socios interesados en el puesto. 
+
+Solo los socios podrán ocupar los cargos de Presidente/a, Vicepresidente/a y Secretario/a. Podrán ser vocales también los socios colaboradores.
 
 Todos los miembros serán designados y revocados por la Asamblea General.
 
@@ -305,6 +311,10 @@ de la Presidencia en los casos de estar vacante el cargo por ausencia o enfermed
 actuar también en representación de la Asociación en aquellos supuestos
 en que así se acuerde por la Junta Directiva o Asamblea General.
 
+La vicepresidencia podrá ostentar las funciones y título de otro cargo de manera regular, con perjuicio
+del las funciones de la presidencia, exceptuando en los supuestos anteriormente comentados. Dichas funciones
+y título deberán ser votadas en asamblea general o extraordinaria. 
+
 ### Artículo 21. La Secretaría.
 
 Corresponde a quien ostente la Secretaría las siguientes funciones:
@@ -344,7 +354,7 @@ Corresponde a quien ostente la Tesorería:
 
 a) Recaudar los fondos de la Asociación, custodiarlos e invertirlos en la forma determinada por la Junta Directiva.
 
-b) Efectuar los pagos, con el visto bueno de la Presidencia.
+b) Efectuar los pagos, con el visto bueno de la Presidencia. 
 
 c) Intervenir con su firma todos los documentos de cobros y pagos, con el visto bueno conforme de la Presidencia.
 
@@ -418,10 +428,12 @@ h) Resolver las solicitudes relativas a la admisión de socios.
 i) Incorporar en el  reglamento de régimen interno las normas de obligado cumplimiento, los procesos 
 operativos para el correcto uso de la asociación y las buenas prácticas detectadas en el desarrollo de sus actividades
 
-j) Establecer mecanismos para la modificación del  reglamento de régimen internoobservando de los
+j) Establecer mecanismos para la modificación del reglamento de régimen interno observando de los
 principios de transparencia, agilidad y legitimidad.
 
-k) Modificar los distintos elementos del reglamento de régimen interno, debiendo dar cuenta de los mismos a la Asamblea general 
+k) Modificar los distintos elementos del reglamento de régimen interno, debiendo dar cuenta de los mismos a la Asamblea general. 
+
+l) Modificar de manera unilateral e inmediata el reglamento de régimen interno para evitar posibles conflictos legales derivados de actividades peligrosas en el espacio. Esas modificaciones entrarán en funcionamiento directamente, y los socios deberán ser informados para que se puedan discutir en la siguiente asamblea de la asociación. 
 
 Artículo 27. Obligaciones y responsabilidades de los miembros de la Junta Directiva
 
@@ -495,11 +507,11 @@ controvertidas sólo darán lugar a anotaciones provisionales.
  - Socios de honor, los que por su prestigio o por haber contribuido de modo relevante a
  la dignificación y desarrollo de la asociación, se hagan acreedores de tal distinción. 
  El nombramiento de los socios de honor corresponderá a la Asamblea General.
- - Tanto los socios fundadores como los socios con número estarán obligados 
- al pago de la cuota íntegra mensual que se establezca en el reglamento interno de la asociación..
- - Socios colaboradores. Serán socios colaboradores, aquellos que, sin querer
+- Socios colaboradores. Serán socios colaboradores, aquellos que, sin querer
  acceder al espacio puedan colaborar con los fines de la asociación de manera económica y
  colaborando en los eventos. No serán considerados socios a efectos de votación
+ - Tanto los socios fundadores como los socios con número y los socios colaboradores estarán obligados 
+ al pago de la cuota íntegra mensual que se establezca en el reglamento interno de la asociación.
 
 2.  La asociación dispondrá de una relación actualizada de sus asociados.
 
@@ -510,7 +522,8 @@ y estar interesada en el desarrollo de  los fines de la Asociación. A excepció
 tanto personas físicas como personas jurídicas. 
 
 La solicitud para adquirir la condición de persona asociada, 
-siempre que se cumplan con los requisitos regulados estatutariamente, será aceptada por la Junta Directiva.
+siempre que se cumplan con los requisitos regulados estatutariamente, será estudiada y 
+aceptada por la Junta Directiva. 
 
 La admisión de socios será cerrada tres meses antes de cada asamblea general.
 
@@ -536,12 +549,13 @@ adoptados por los órganos sociales, así como del reglamento interno de la asoc
   el acuerdo motivado de la Junta Directiva, adoptado por 2/3 del número de votos legalmente emitidos. 
   Toda persona asociada tendrá derecho a ser informada de los hechos que den lugar a la expulsión y 
   a ser oída con carácter previo a la adopción de dicho acuerdo.
-	
+
+
  En el supuesto de sanción de separación de la persona asociada se requerirá, en todo caso, la ratificación de la Asamblea General.
 
 ### Artículo 34. Derechos.
 
-	1. Son derechos de los socios de número y fundadores:
+1. Son derechos de los socios de número y fundadores:
 
 Participar en las Asambleas con voz y voto.
 
@@ -559,19 +573,19 @@ e) Acceder a la documentación de la asociación, a través de la Junta Directiv
 f) Participar en las actividades de la asociación y utilizar los bienes e instalaciones de 
 uso común de la Asociación, con respeto a igual derecho del resto de los socios.
 
-2. Los socios de honor tendrán los mismos derechos que los fundadores y
-de número a excepción de los previstas en los apartados a) y  b). No obstante lo anterior,
-podrán asistir a la Asambleas Generales con voz pero sin voto.
-
-3. Como el uso de algunos de los dispositivosdispostivos o
+g) Como el uso de algunos de los dispositivos o
 el acceso a alguna de las dependencias de la asociación puede entrañar riesgos 
 para personas que carezcan de la adecuada formación o cualificación, podrá limitarse
 dicho uso o acceso en tanto no sea comprobada la pertinente capacidad del socio.
 
-4. Son derechos de los socios colaboradores
+2. Los socios de honor tendrán los mismos derechos que los fundadores y
+de número a excepción de los previstas en los apartados a) y  b). No obstante lo anterior,
+podrán asistir a la Asambleas Generales con voz pero sin voto.
 
-Participar en las asambleas con voz y voto sobre los temas no
-relacionados con la gestión del espacio de creación comunitario
+3. Son derechos de los socios colaboradores
+
+a) Participar en las asambleas con voz y voto sobre los temas no
+relacionados con la gestión del espacio de creación comunitario.
 
 b) Ser informados acerca de la composición de los órganos de gobierno 
 y representación de la asociación, de su estado de cuentas y del desarrollo de su actividad.
@@ -608,7 +622,6 @@ a su regularización o a la pérdida definitiva de la condición de persona asoc
 
 El patrimonio fundacional o inicial  de la Asociación en el momento de su constitución es de cero euros.
 
-
 ### Artículo 37. Titularidad de bienes y derechos.
 
 La Asociación deberá figurar como titular de todos los bienes 
@@ -619,21 +632,21 @@ Artículo 38. Recursos económicos
 
 1. La Asociación, para el desarrollo de sus actividades, se financiará con:
 
-Por la cuota Inicial de los Socios Fundadores 
+- Por la cuota Inicial de los Socios Fundadores 
 
-Por la cuota ordinaria de los socios.
+- Por la cuota ordinaria de los socios.
 
-Por las cuota de los socios colaboradores. 
+- Por las cuota de los socios colaboradores. 
 
-Los recursos que provengan del rendimiento de su patrimonio, en su caso.
+- Los recursos que provengan del rendimiento de su patrimonio, en su caso.
 
-Las cuotas de los socios, ordinarias o extraordinarias.
+- Las cuotas de los socios, ordinarias o extraordinarias.
 
-Los donativos o subvenciones que pudieran ser concedidas por personas físicas o jurídicas, públicas o privadas.
+- Los donativos o subvenciones que pudieran ser concedidas por personas físicas o jurídicas, públicas o privadas.
 
-Donaciones, herencias o legados, aceptadas por  la Junta Directiva.
+- Donaciones, herencias o legados, aceptadas por  la Junta Directiva.
 
-Los ingresos provenientes de sus actividades.
+- Los ingresos provenientes de sus actividades.
 
 2. Los beneficios obtenidos por la Asociación, derivados del ejercicio de actividades económicas,
 incluidas las prestaciones de servicios, deberán destinarse exclusivamente al cumplimiento de sus fines,
@@ -678,21 +691,21 @@ d) Por las causas que se determinen en los presentes Estatutos.
 2. Los miembros de la Junta Directiva en el momento de la disolución se convierten en liquidadores, salvo que los designe expresamente la Asamblea General o la persona titular del Juzgado que, en su caso, acuerde la disolución.
 
 Corresponde a los liquidadores:
-Velar por la integridad del patrimonio de la Asociación.
-Concluir las operaciones pendientes y efectuar las nuevas que sean precisas para la liquidación.
-Cobrar los créditos de la Asociación.
-Liquidar el patrimonio y pagar a los acreedores.
-Aplicar los bienes sobrantes a los fines previstos por los Estatutos.
-Solicitar la cancelación de los asientos en el Registro.
-Reintegrar a sus propietarios los bienes que hubieran sido cedidos a la asociación con carácter temporal y que permanezcan a disposición de ésta en el momento de su disolución.
+- Velar por la integridad del patrimonio de la Asociación.
+- Concluir las operaciones pendientes y efectuar las nuevas que sean precisas para la liquidación.
+- Cobrar los créditos de la Asociación.
+- Liquidar el patrimonio y pagar a los acreedores.
+- Aplicar los bienes sobrantes a los fines previstos por los Estatutos.
+- Solicitar la cancelación de los asientos en el Registro.
+- Reintegrar a sus propietarios los bienes que hubieran sido cedidos a la asociación con carácter temporal y que permanezcan a disposición de ésta en el momento de su disolución.
 
 3. El remanente neto que resulte de la liquidación se entregará directamente a una entidad pública o privada sin ánimo de lucro con fines similares a los de la Asociación, que haya destacado en el ejercicio de sus actividades.
 
-	4. En caso de insolvencia de la Asociación, la Junta Directiva o, en su caso, los liquidadores, han de promover inmediatamente el oportuno procedimiento concursal ante el Juzgado competente.
+4. En caso de insolvencia de la Asociación, la Junta Directiva o, en su caso, los liquidadores, han de promover inmediatamente el oportuno procedimiento concursal ante el Juzgado competente.
 
 DISPOSICIÓN ADICIONAL
 	En todo cuanto no esté previsto en los presentes Estatutos se aplicará la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, la Ley 4/2006, de 23 de junio, de Asociaciones de Andalucía, y demás disposiciones complementarias
-	En ____________________, a ____ de _______________ de ________
+	En Sevilla, a 15 de Mayo de 2018
 
 (FIRMAS de los otorgantes del Acta Fundacional. Deberán firmar también en el margen de cada una de las hojas de los Estatutos.
 En el supuesto de ser una modificación de los Estatutos inscritos en el Registro de Asociaciones, firmarán las personas titulares de la Presidencia y de la Secretaría de la entidad. Deberán firmar también en el margen de cada una de las hojas de los Estatutos.)
