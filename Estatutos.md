@@ -87,12 +87,12 @@ en la forma que se indica en los presentes Estatutos.
 Las Asambleas serán convocadas por la persona titular de la  Presidencia, a iniciativa propia,
 por acuerdo de la Junta Directiva o por solicitud de un número de personas asociadas no inferior al 10 por 100.
 
-- Acordada por la Junta Directiva la convocatoria de una Asamblea General,
+Acordada por la Junta Directiva la convocatoria de una Asamblea General,
 la persona titular de la Presidencia la convocará en el plazo máximo de quince días 
 naturales desde la adopción del acuerdo. Entre la convocatoria y el día señalado para 
 la celebración de la Asamblea habrá de mediar, al menos, quince días naturales.
 
-- La solicitud de convocatoria efectuada por los socios contendrá el 
+La solicitud de convocatoria efectuada por los socios contendrá el 
 orden del día de la sesión, y adjuntará los documentos o información que fuere necesaria 
 para la adopción de los acuerdos siempre que dicha documentación o información haya de ser tenida en cuenta para ello.
 
@@ -255,24 +255,24 @@ hasta que se produzca la elección definitiva por la Asamblea General convocada 
 
 1. Los miembros de la Junta Directiva cesarán en sus respectivos cargos por las siguientes causas:
 
-	a) Por muerte o declaración de fallecimiento.
+a) Por muerte o declaración de fallecimiento.
   
-	b) Por incapacidad, inhabilitación o incompatibilidad, de acuerdo con lo establecido en el ordenamiento jurídico.
+b) Por incapacidad, inhabilitación o incompatibilidad, de acuerdo con lo establecido en el ordenamiento jurídico.
   
-	c) Por resolución judicial.
+c) Por resolución judicial.
   
-	d) Por transcurso del periodo de su mandato.
-  No obstante, hasta tanto no se proceda por la Asamblea General la elección de la nueva
-  Junta Directiva, aquélla continuará en funciones, debiéndose expresar dicho carácter en cuantos documentos 
-  hayan de firmar en función de los respectivos cargos.
+d) Por transcurso del periodo de su mandato.
+No obstante, hasta tanto no se proceda por la Asamblea General la elección de la nueva
+Junta Directiva, aquélla continuará en funciones, debiéndose expresar dicho carácter en cuantos documentos 
+hayan de firmar en función de los respectivos cargos.
 	
-  e) Por renuncia voluntaria, comunicada por escrito a la Junta Directiva.
+e) Por renuncia voluntaria, comunicada por escrito a la Junta Directiva.
   
-	f) Por acuerdo adoptado con las formalidades estatutarias, por la Asamblea General.
+f) Por acuerdo adoptado con las formalidades estatutarias, por la Asamblea General.
   
-	g) Por la pérdida de la condición de persona asociada.
+g) Por la pérdida de la condición de persona asociada.
 
-	2. Los ceses y nombramientos se comunicarán al Registro de Asociaciones, para su debida constancia y publicidad.
+2. Los ceses y nombramientos se comunicarán al Registro de Asociaciones, para su debida constancia y publicidad.
 
 ### Artículo  19.  La Presidencia.
 
@@ -402,7 +402,7 @@ la denominación de Junta Directiva Universal.
 7. A las sesiones de la Junta Directiva podrán asistir, con voz y sin voto,
 aquellas personas previamente citadas o invitadas por la Presidencia cuyas funciones serán exclusivamente de asesoramiento.
 
-Artículo 26. Atribuciones.
+### Artículo 26. Atribuciones.
 
 La Junta Directiva tendrá las siguientes atribuciones:
 
@@ -435,7 +435,7 @@ k) Modificar los distintos elementos del reglamento de régimen interno, debiend
 
 l) Modificar de manera unilateral e inmediata el reglamento de régimen interno para evitar posibles conflictos legales derivados de actividades peligrosas en el espacio. Esas modificaciones entrarán en funcionamiento directamente, y los socios deberán ser informados para que se puedan discutir en la siguiente asamblea de la asociación. 
 
-Artículo 27. Obligaciones y responsabilidades de los miembros de la Junta Directiva
+### Artículo 27. Obligaciones y responsabilidades de los miembros de la Junta Directiva
 
 Son obligaciones de los miembros de la Junta Directiva, 
 a título enunciativo, cumplir y hace cumplir los fines de la Asociación,
@@ -453,7 +453,7 @@ espacio que acaben en daños y perjuicios a ellos mismos o a terceros, serán lo
 los que tengan que responder por sus acciones. 
 
 
-Artículo 28. Carácter gratuito del cargo
+### Artículo 28. Carácter gratuito del cargo
 
 Los miembros de la Junta Directiva ejercerán su cargo gratuitamente,
 sin que en ningún caso puedan recibir retribución por el desempeño de su función, 
@@ -679,7 +679,7 @@ del resultado y de la situación financiera de la entidad.
 
 ### Artículo 40.  Disolución.
 
-	La Asociación se disolverá por las  siguientes causas:
+La Asociación se disolverá por las  siguientes causas:
 a) Por acuerdo adoptado por mayoría cualificada en Asamblea General Extraordinaria.
 b) Por las causas que se determinan en el artículo 39 del Código Civil.
 c) Por sentencia judicial firme.
@@ -687,7 +687,7 @@ d) Por las causas que se determinen en los presentes Estatutos.
 
 ### Artículo 41. Liquidación.
 
-	1. Acordada la disolución de la Asociación, se abre el periodo de liquidación, hasta el fin del cual la entidad conservará su personalidad jurídica. 
+1. Acordada la disolución de la Asociación, se abre el periodo de liquidación, hasta el fin del cual la entidad conservará su personalidad jurídica. 
 2. Los miembros de la Junta Directiva en el momento de la disolución se convierten en liquidadores, salvo que los designe expresamente la Asamblea General o la persona titular del Juzgado que, en su caso, acuerde la disolución.
 
 Corresponde a los liquidadores:
@@ -709,9 +709,11 @@ DISPOSICIÓN ADICIONAL
 
 (FIRMAS de los otorgantes del Acta Fundacional. Deberán firmar también en el margen de cada una de las hojas de los Estatutos.
 En el supuesto de ser una modificación de los Estatutos inscritos en el Registro de Asociaciones, firmarán las personas titulares de la Presidencia y de la Secretaría de la entidad. Deberán firmar también en el margen de cada una de las hojas de los Estatutos.)
-D/Dª__________________________________ D/Dª__________________________________
 
-D/Dª__________________________________ D/Dª__________________________________
+D/Dª__________________________________ 
+D/Dª__________________________________
+D/Dª__________________________________ 
+D/Dª__________________________________
+D/Dª__________________________________
+D/Dª__________________________________
 
-D/Dª__________________________________ D/Dª__________________________________
--
