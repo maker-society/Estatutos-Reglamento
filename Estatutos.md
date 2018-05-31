@@ -502,14 +502,13 @@ controvertidas sólo darán lugar a anotaciones provisionales.
 ### Artículo 31. Clases.
 
 1. Dentro de la Asociación existirán las siguientes clases de socios:
- - Socios fundadores, que serán aquéllos que participen en el acto de constitución de la Asociación.
- - Socios de número, que serán los que ingresen después de la constitución de la Asociación.
+ - Socios fundadores, que serán aquéllos que participen en el acto de constitución de la Asociación, y podrán ser tanto socios makers como socios colaboradores.  
+ - Socios de número, que serán los que ingresen después de la constitución de la Asociación. Y podrán ser tanto socios makers, como socios colaboradores. 
  - Socios de honor, los que por su prestigio o por haber contribuido de modo relevante a
  la dignificación y desarrollo de la asociación, se hagan acreedores de tal distinción. 
  El nombramiento de los socios de honor corresponderá a la Asamblea General.
-- Socios colaboradores. Serán socios colaboradores, aquellos que, sin querer
- acceder al espacio puedan colaborar con los fines de la asociación de manera económica y
- colaborando en los eventos. No serán considerados socios a efectos de votación
+ - Socios colaboradores. Serán socios colaboradores, aquellos que, sin querer acceder al espacio puedan colaborar con los fines de la asociación.
+ - Socios makers. Serán socios makers aquellos que quieran acceder al espacio para uso personal, así como colaborar con los fines de la asociación.
  - Tanto los socios fundadores como los socios con número y los socios colaboradores estarán obligados 
  al pago de la cuota íntegra mensual que se establezca en el reglamento interno de la asociación.
 
